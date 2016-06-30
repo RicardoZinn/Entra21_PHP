@@ -162,4 +162,3 @@ if(isset($_POST['email']) && isset($_POST['senha'])) {
 // incluir arquivo do rodape
   require_once('include/footer.php');
   ?>
-  TESTE
